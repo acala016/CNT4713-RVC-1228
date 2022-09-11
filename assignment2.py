@@ -30,7 +30,7 @@ class Assignment2:
         subYear = str(n[0:2])
         print(subYear)
 
-obj = Assignment2(1998)  # must input valid year
-obj.tellAge(2022)        # input the  current year
-ret = obj.listAnniversaries()
-print(ret)        
+# obj = Assignment2(1998)  # must input valid year
+# obj.tellAge(2022)        # input the  current year
+# ret = obj.listAnniversaries()
+# print(ret)        
